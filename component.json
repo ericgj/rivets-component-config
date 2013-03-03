@@ -1,0 +1,17 @@
+{
+  "name": "rivets-component-config",
+  "repo": "ericgj/rivets-component-config",
+  "description": "Rivets.js config for reactive-compatible models, jquery-free bindings",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "mikeric/rivets": "*",
+    "component/classes": "*",
+    "component/css": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
